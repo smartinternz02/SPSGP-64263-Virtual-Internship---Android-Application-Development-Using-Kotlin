@@ -1,6 +1,6 @@
 # Virtual Internship - Android Application Development Using Kotlin
 
-GitHub Link : https://github.com/smartinternz02/SPSGP-64263-Virtual-Internship---Android-Application-Development-Using-Kotlin
+GitHub Link : https://github.com/ShashankV2604/Grocery-App
 
 Google Developer Profile:- https://g.dev/shashank2604
 
